@@ -35,3 +35,9 @@ This is a Java web application built using JSP, Servlets, and a MySQL database. 
 This project implements a simple yet functional email application with standard features using Java, JSP, Servlets, and MySQL. The code is organized cleanly, making it easy to understand and maintain.
 
 Feel free to explore the code and contribute to further enhancements!
+
+## Images
+![Screenshot 2023-11-18 192007](https://github.com/navadkarsujit/Java-Web-Email-Application/assets/144350681/9ae9c2a0-fe95-43b3-900a-628aeedbcca4)
+![Screenshot 2023-11-18 192132](https://github.com/navadkarsujit/Java-Web-Email-Application/assets/144350681/bc66729b-2bd3-4f7a-b827-a28c7482768a)
+![Screenshot 2023-11-18 192312](https://github.com/navadkarsujit/Java-Web-Email-Application/assets/144350681/d8a95a89-8529-4fd7-ae2f-4dcb9e3eac88)
+![Screenshot 2023-11-18 192157](https://github.com/navadkarsujit/Java-Web-Email-Application/assets/144350681/52ef7b99-2907-4af5-8fee-3ba98ca075d1)
